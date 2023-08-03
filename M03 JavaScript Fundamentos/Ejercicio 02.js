@@ -10,7 +10,7 @@ function devolverString(string) {
 
 function suma(x, y) {
    // Retorna el resultado de su suma.
-   // Tu código:
+   // Tu código: 
 }
 
 function resta(x, y) {
